@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="资料">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/spring-framework-5.0.2.RELEASE-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/资料/spring-framework-5.0.2.RELEASE-docs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/资料/spring-framework-5.0.2.RELEASE-schema.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
